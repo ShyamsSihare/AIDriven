@@ -1,0 +1,21 @@
+AIDrivenRepo/
+│
+├── manuscript/
+│   ├── AI_Inclusive_Learning_Manuscript.tex  # LaTeX source code of the paper
+│   └── References.bib                        # Bibliography
+│
+├── src/
+│   ├── models.py                             # Mathematical models (Logistic growth, BCI dynamics)
+│   ├── data_engine.py                        # Synthetic data generation engine
+│   └── visualization.py                      # AdvancedVisualizationEngine for all figures
+│
+├── generated_figures/                        # Output folder for PDF figures
+│   ├── Figure_1_Adaptive_Learning_Ecosystem.pdf
+│   ├── Figure_2_AI_Technology_Performance.pdf
+│   ├── Figure_3_Ethical_AI_Framework.pdf
+│   ├── Figure_4_Future_Directions.pdf
+│   ├── Figure_5_Synthesis_Integration.pdf
+│   └── Summary_Report.pdf
+│
+├── README.md
+└── requirements.txt
