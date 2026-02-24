@@ -1,0 +1,9 @@
+If you use this code, data simulation engine, or visualization framework in your research, please cite the manuscript:
+Code snippet
+@article{sihare2024aidriven,
+  title={AI Driven Inclusive Learning Revolutionizing Higher Education with Intelligent Assistive Technologies},
+  author={Sihare, Shyam R.},
+  journal={Under Review},
+  year={2024},
+  url={https://github.com/ShyamsSihare/AIDrivenRepo}
+}
